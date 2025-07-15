@@ -1,6 +1,6 @@
 # MirrorMinds-LLMDetector
 Code repository of paper "Mirror Minds : An Empirical Study on Detecting LLM-Generated Text via LLMs" published in DAIGenC25@COLING 2025.
-This repository is a fork of the original [MirrorMinds](https://github.com/shubhamgpt007/MirrorMinds-LLMDetector/)project, modified to provide a minimal, standalone library that can be easily integrated into other projects. 
+This repository is a fork of the original [MirrorMinds](https://github.com/shubhamgpt007/MirrorMinds-LLMDetector/) project, modified to provide a minimal, standalone library that can be easily integrated into other projects. 
 It also introduces support for configuring different LLMs.
 
 ## 🚀 Getting Started
